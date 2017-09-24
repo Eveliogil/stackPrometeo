@@ -5,6 +5,7 @@ namespace stackPrometeo.Data.Library
 {
     public static class DbConnectionHelper
     {
+
         public static T GetData<T>(this IDataReader reader, string columnName)
         {
 
