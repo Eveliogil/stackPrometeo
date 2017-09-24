@@ -1,0 +1,80 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stackPrometeo", "stackPrometeo\stackPrometeo\stackPrometeo.csproj", "{4389B305-B381-4B50-B1A8-BBB5259A0524}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stackPrometeo.ServiceModel", "stackPrometeo\stackPrometeo.ServiceModel\stackPrometeo.ServiceModel.csproj", "{53E82AC1-DD1D-4C66-B55F-F9F4ACFB2F40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stackPrometeo.ServiceInterface", "stackPrometeo\stackPrometeo.ServiceInterface\stackPrometeo.ServiceInterface.csproj", "{801A0F89-D5F6-49A6-BCEA-6624388C98A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stackPrometeo.Tests", "stackPrometeo\stackPrometeo.Tests\stackPrometeo.Tests.csproj", "{D22B5797-9F2A-4BA7-9636-6EFCE62EBE00}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Utils", "Utils", "{F952A559-2287-49DB-AA76-D4D0CC9AE813}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stackPrometeo.Data.Library", "stackPrometeo.Data.Library\stackPrometeo.Data.Library.csproj", "{8DF72965-54FA-49A7-892A-DBFBF79BD798}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stackPrometeo.Data.Repository", "stackPrometeo.Data.Repository\stackPrometeo.Data.Repository.csproj", "{1AED8C51-A137-4482-999E-C0E9FCAB2E02}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BaseServices", "BaseServices", "{93D57AA5-E18B-4FE7-85F9-4B9BF04B7020}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stackPrometeo.Services.Membership", "stackPrometeo.Services.Membership\stackPrometeo.Services.Membership.csproj", "{46361229-A62D-48FB-A0DC-B96EB1E79F2C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ComponentServices", "ComponentServices", "{64B39967-5312-4BCA-A640-A014F533DD54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stackPrometeo.Services.Entities", "stackPrometeo.Services.Entities\stackPrometeo.Services.Entities.csproj", "{73857383-2E0A-4756-8F88-C9D107B8E42C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4389B305-B381-4B50-B1A8-BBB5259A0524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4389B305-B381-4B50-B1A8-BBB5259A0524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4389B305-B381-4B50-B1A8-BBB5259A0524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4389B305-B381-4B50-B1A8-BBB5259A0524}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53E82AC1-DD1D-4C66-B55F-F9F4ACFB2F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E82AC1-DD1D-4C66-B55F-F9F4ACFB2F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53E82AC1-DD1D-4C66-B55F-F9F4ACFB2F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E82AC1-DD1D-4C66-B55F-F9F4ACFB2F40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{801A0F89-D5F6-49A6-BCEA-6624388C98A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{801A0F89-D5F6-49A6-BCEA-6624388C98A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{801A0F89-D5F6-49A6-BCEA-6624388C98A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{801A0F89-D5F6-49A6-BCEA-6624388C98A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D22B5797-9F2A-4BA7-9636-6EFCE62EBE00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D22B5797-9F2A-4BA7-9636-6EFCE62EBE00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D22B5797-9F2A-4BA7-9636-6EFCE62EBE00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D22B5797-9F2A-4BA7-9636-6EFCE62EBE00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DF72965-54FA-49A7-892A-DBFBF79BD798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DF72965-54FA-49A7-892A-DBFBF79BD798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DF72965-54FA-49A7-892A-DBFBF79BD798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DF72965-54FA-49A7-892A-DBFBF79BD798}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AED8C51-A137-4482-999E-C0E9FCAB2E02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AED8C51-A137-4482-999E-C0E9FCAB2E02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AED8C51-A137-4482-999E-C0E9FCAB2E02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AED8C51-A137-4482-999E-C0E9FCAB2E02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46361229-A62D-48FB-A0DC-B96EB1E79F2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46361229-A62D-48FB-A0DC-B96EB1E79F2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46361229-A62D-48FB-A0DC-B96EB1E79F2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46361229-A62D-48FB-A0DC-B96EB1E79F2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73857383-2E0A-4756-8F88-C9D107B8E42C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73857383-2E0A-4756-8F88-C9D107B8E42C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73857383-2E0A-4756-8F88-C9D107B8E42C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73857383-2E0A-4756-8F88-C9D107B8E42C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8DF72965-54FA-49A7-892A-DBFBF79BD798} = {F952A559-2287-49DB-AA76-D4D0CC9AE813}
+		{1AED8C51-A137-4482-999E-C0E9FCAB2E02} = {F952A559-2287-49DB-AA76-D4D0CC9AE813}
+		{46361229-A62D-48FB-A0DC-B96EB1E79F2C} = {93D57AA5-E18B-4FE7-85F9-4B9BF04B7020}
+		{73857383-2E0A-4756-8F88-C9D107B8E42C} = {64B39967-5312-4BCA-A640-A014F533DD54}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96D01EA2-2032-4A88-A4C2-4A68A1EB112B}
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Data.6.0.1304.0\lib\NET45
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\Evelio\Desktop\ePrometeo\stackPrometeo\stackPrometeo.Data.Library\bin\Debug\stackPrometeo.Data.Library.dll
+C:\Users\Evelio\Desktop\ePrometeo\stackPrometeo\stackPrometeo.Data.Library\bin\Debug\stackPrometeo.Data.Library.pdb
+C:\Users\Evelio\Desktop\ePrometeo\stackPrometeo\stackPrometeo.Data.Library\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Evelio\Desktop\ePrometeo\stackPrometeo\stackPrometeo.Data.Library\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Evelio\Desktop\ePrometeo\stackPrometeo\stackPrometeo.Data.Library\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Evelio\Desktop\ePrometeo\stackPrometeo\stackPrometeo.Data.Library\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Evelio\Desktop\ePrometeo\stackPrometeo\stackPrometeo.Data.Library\obj\Debug\stackPrometeo.Data.Library.csproj.CoreCompileInputs.cache
+C:\Users\Evelio\Desktop\ePrometeo\stackPrometeo\stackPrometeo.Data.Library\obj\Debug\stackPrometeo.Data.Library.dll
+C:\Users\Evelio\Desktop\ePrometeo\stackPrometeo\stackPrometeo.Data.Library\obj\Debug\stackPrometeo.Data.Library.pdb
+C:\Users\Evelio\Desktop\ePrometeo\stackPrometeo\stackPrometeo.Data.Library\obj\Debug\stackPrometeo.Data.Library.csprojResolveAssemblyReference.cache
