@@ -8,6 +8,7 @@ namespace stackPrometeo.Data.Library
 {
     public class DbConnection
     {
+
         private readonly SqlDatabase _database;
 
         public DbConnection(string connectionString)
